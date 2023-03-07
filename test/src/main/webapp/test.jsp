@@ -10,9 +10,6 @@
 <h1>test.jsp</h1>
 연습
 
-
 [try2]
-new branch 생성
-dd
 </body>
 </html>
