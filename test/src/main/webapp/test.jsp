@@ -10,6 +10,6 @@
 <h1>test.jsp</h1>
 연습
 
-[try2]
+[try2]--왜 안되냐구
 </body>
 </html>
