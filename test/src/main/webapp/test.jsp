@@ -10,9 +10,15 @@
 today is wednesday;
 	});
 </script>
+<style type="text/css">
+	fieldset {
+		width : 100px; height : 100px;
+	}
+</style>
 </head>
 <body>
 <h1>test.jsp</h1>
 <span>today</span>
+<fieldset style = "background:yellow;">dd</fieldset>
 </body>
 </html>
