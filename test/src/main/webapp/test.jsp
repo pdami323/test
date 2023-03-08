@@ -13,10 +13,6 @@ today is wednesday;
 </head>
 <body>
 <h1>test.jsp</h1>
-연습
-
-[try2] 시도
-제발
-one more time
+<span>today</span>
 </body>
 </html>
