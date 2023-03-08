@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <script type="text/javascript">
 	$(function() {
-		
+		today is wednesday;
 	});
 </script>
 </head>
