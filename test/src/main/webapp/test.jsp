@@ -5,12 +5,14 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<script type="text/javascript">
+	$(function() {
+today is wednesday;
+	});
+</script>
 </head>
 <body>
 <h1>test.jsp</h1>
-연습
-
-이거 도대체 어떻게 하는거여
-제발
+<span>today</span>
 </body>
 </html>
